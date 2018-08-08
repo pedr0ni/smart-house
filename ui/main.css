@@ -1,0 +1,17 @@
+#main-header {
+    margin-top: 20px;
+}
+
+#off {
+    color: #eb4d4b;
+    font-weight: bold;
+}
+
+#on {
+    color: #6ab04c;
+    font-weight: bold;
+}
+
+.card {
+    width: 100% !important;
+}
